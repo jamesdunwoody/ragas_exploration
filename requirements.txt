@@ -1,0 +1,7 @@
+langchain
+langchain-community
+numpy
+pandas
+ragas
+unstructured
+tqdm
